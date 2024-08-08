@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "chart-differ"
+name = "helm-chart-diff"
 version = "0.1.0"
 description = ""
 authors = ["Germain GAU <germain.gau@gmail.com>"]
